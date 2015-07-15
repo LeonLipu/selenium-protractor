@@ -1,0 +1,16 @@
+{
+  "name": "protractor",
+  "version": "0.0.0",
+  "description": "protractor desc",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-concurrent": "^2.0.0",
+    "protractor": "^0.20.1",
+    "protractor-html-screenshot-reporter": "0.0.19"
+  }
+}
